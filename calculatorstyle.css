@@ -17,6 +17,7 @@ body,
 html {
    height: 100vh;  /*viewport height corresponding to browser; */
   font-family: serif;
+  background-color: #6c6a6a;
 }
 button {
   /* cursor:pointer; */
